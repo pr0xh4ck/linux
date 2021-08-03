@@ -1,2 +1,2 @@
 # bash
-All About Bash
+> All About linux for Hacker & Developer
