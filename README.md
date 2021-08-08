@@ -1,4 +1,4 @@
-> All About linux for Hacker.
+> linux Simplified For Hacker.
 
 ## Agenda
  
