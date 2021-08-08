@@ -1,4 +1,4 @@
-> All About linux for Hacker & Developer.
+> All About linux for Hacker.
 
 ## Agenda
  
