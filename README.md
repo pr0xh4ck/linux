@@ -3,10 +3,10 @@
 ## Agenda
  
  - [Basic](#basic)
- - [Get Powerful CLI](#get-powerful-cli)
+ - [Get powerful CLI](#get-powerful-cli)
  - [Bash](#bash)
- - [Advance Topic](#advance-topic)
-
+ - [Advanced](#advanced)
+   - [Networking](#networking)
 
 ---
 
@@ -28,5 +28,55 @@
 
 
 ### bash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### advanced
+
+### nwtworking
+
+> Start your won Apache server 
+```
+sudo service apache2 start
+```
+
+
+> Stop your won Apache server
+```
+sudo service apache2 stop
+```
+
+
+> Check open ports
+```
+netstat -antp
+```
+
+
+
+
+
 
 
