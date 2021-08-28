@@ -89,7 +89,7 @@ Simplified For Hacker
 
 
 
-### nwtworking
+### networking
 
 > Start your won Apache server 
 ```
