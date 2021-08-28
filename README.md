@@ -1,4 +1,6 @@
-> linux Simplified For Hacker.
+```
+Simplified For Hacker
+```
 
 ## Agenda
  
