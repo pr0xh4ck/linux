@@ -28,6 +28,23 @@ Simplified For Hacker
 
 
 ### intro
+> Gather Information about your linux machine
+```
+cat /etc/os-release
+
+lsb_release -a
+
+hostnamectl
+
+uname -a 
+
+uname -r 
+```
+
+
+
+
+
 
 
 
