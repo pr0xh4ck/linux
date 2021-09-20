@@ -1,6 +1,6 @@
-```
-Simplified For Hacker
-```
+```pr0xh4ck © 2021```
+
+```Simplified For Hacker```
 
 ## Agenda
  
