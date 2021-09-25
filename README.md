@@ -138,6 +138,13 @@ or
 echo "export GOROOT=/usr/local/go" >> ~/.bashrc
 ```
 
+```bash
+mkdir -p ~/go
+```
+
+
+- If you face any error
+
 - Define $PATH
 ```bash
 PATH=$PATH:$GOROOT/bin/:$GOPATH/bin
@@ -148,23 +155,21 @@ or
 echo "PATH=$PATH:$GOROOT/bin/:$GOPATH/bin" >> ~/.bashrc
 ```
 
-- If you face any error
-```bash
-mkdir -p ~/go
-```
-then 
+Then 
 
 ```bash
 echo "PATH=$PATH:$GOROOT/bin/:$GOPATH/bin" >> ~/.bashrc
 ```
-after that 
+After that 
 
 ```bash
 tail ~/.bashrc
 ```
+Eventually
 
-
-
+```bash
+. ~/.bashrc
+```
 
 
 
