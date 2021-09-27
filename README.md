@@ -180,7 +180,7 @@ Eventually
 ----
 ### bash
 
-
+- [Click here](https://github.com/pr0xh4ck/linux/blob/main/Bash.md)
 
 
 
