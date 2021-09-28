@@ -100,7 +100,7 @@ echo "Your progress is END"
 ```
 
 
-- If Statement
+- if Statement
 
 ```bash
 #!/bin/bash
@@ -120,9 +120,24 @@ echo "done"
 fi
 ```
 
+- if else Statement
+
+```bash
+#!/bin/bash
 
 
 
+echo "Enter your password"
+read password
+echo
+if [ $password == pr0xh4ck ]
+then 
+echo "Here you go"
+else
+echo "Sorry, your password is wrong"
+echo
+fi
+```
 
 
 
