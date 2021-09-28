@@ -74,10 +74,10 @@ echo
 read name
 echo
 echo "Your name is: $name"
-echo
+echo;
 echo "Enter you multiple name"
 echo
-read name1 name2 
+read name1 name2
 echo
 echo "Your First name is: $name1"
 echo
@@ -100,7 +100,25 @@ echo "Your progress is END"
 ```
 
 
+- If Statement
 
+```bash
+#!/bin/bash
+
+
+echo "your domain 100 "
+echo
+domain=100
+echo
+if [ $domain -eq 100 ]
+then
+echo "It is true"
+else
+echo "It is false"
+echo
+echo "done"
+fi
+```
 
 
 
