@@ -140,11 +140,48 @@ fi
 ```
 
 
+- case 
 
+```bash
+#!/bin/bash
 
+case "${1}" in
+start)
+echo "Starting"
+;;
+stop)
+echo "Stoping"
+;;
+status)
+echo "Status"
+;;
+esac
+```
 
+- case 2
 
+```bash
+#!/bin/bash
 
+echo "Please enter your option"
+echo "Enter a for Name"
+echo "Enter b for Roll"
+echo "Enter c for Phone"
+
+read input
+case ${input} in
+
+a) 
+echo "Pr0xh4ck" 
+;;
+b) 
+echo "65,535" 
+;;
+c) 
+echo "+880" 
+;;
+esac
+```
 
 
 
