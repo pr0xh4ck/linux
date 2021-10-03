@@ -91,6 +91,55 @@ uname -r
 
 
 
+
+
+### python
+
+
+- nstall python3
+```bash
+sudo apt-get install python3.9
+```
+
+
+- install pip3
+```bash
+sudo apt install python3-pip
+```
+
+- Set update python as default 
+```bash
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.9 10
+```
+
+
+- Now create virtualenv
+```bash
+pip install virtualenv
+```
+
+- Now create virtual diretory
+```bash
+mkdir python-venv
+```
+- Now go to inside your python-venv directory through terminal
+- Start command
+```bash
+python3 -m venv env
+```
+
+- Now activation command
+```bash
+source env/bin/activate
+```
+
+- Now check
+```bash
+python3 
+
+>>> from pwn import *
+```
+
 ----
 ### golang
 
