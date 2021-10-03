@@ -124,6 +124,11 @@ mkdir python-venv
 ```
 - Now go to inside your python-venv directory through terminal
 - Start command
+
+```bash
+apt-get install python3-venv
+```
+
 ```bash
 python3 -m venv env
 ```
