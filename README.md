@@ -250,6 +250,18 @@ Eventually
 -----
 ### networking
 
+- [scanner](https://stafwag.github.io/blog/blog/2021/02/28/howto-install-opevas-on-kali/)
+```bash
+ps aux | grep -i have
+sudo apt install openvas
+gvm-setup 
+sudo gvm-check-setup
+sudo gvm-feed-update
+sudo gvm-start
+sudo gvm-stop
+```
+
+
 > Start your won Apache server 
 ```
 sudo service apache2 start
