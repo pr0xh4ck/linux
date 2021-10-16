@@ -30,7 +30,7 @@
 
 
 ### intro
-> Gather Information about your linux machine
+- Gather Information about your linux machine
 ```
 cat /etc/os-release
 
@@ -44,9 +44,13 @@ uname -r
 ```
 
 
+- Update & Upgrade
 
-
-
+```bash
+sudo apt-get update
+sudo apt-get upgrade 
+sudo apt-get dist-upgrade
+```
 
 
 
