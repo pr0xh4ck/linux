@@ -30,7 +30,7 @@
 
 
 ### intro
-- Gather Information about your linux machine
+- About your linux machine
 ```
 cat /etc/os-release
 
