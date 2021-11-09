@@ -157,7 +157,7 @@ python3
 or
 
 ```bash
-sudo wget https://golang.org/dl/go1.17.1.linux-amd64.tar.gz
+sudo wget https://golang.org/dl/go1.17.3.linux-amd64.tar.gz
 ```
 
 - Now remove your old golang
@@ -167,7 +167,7 @@ sudo rm -rf /usr/local/go/
 
 - Now extract your new golang
 ```bash
-sudo tar -C /usr/local -xzf go1.17.1.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.17.3.linux-amd64.tar.gz
 ```
 
 - Now see your path
