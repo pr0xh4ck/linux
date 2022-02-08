@@ -1,8 +1,7 @@
 - [Agenda]()
   - [Intro](#intro)
+  - [Compulsory](#Compulsory)
   - [Basic](#basic)
-  - []()
-  - []()
   - []()
   - []()
 
@@ -25,6 +24,36 @@
 ```
 
 
+
+
+
+
+### Compulsory
+
+- grep 
+```
+
+```
+
+- cut
+```
+
+```
+
+- sort
+```
+
+```
+
+- xargs
+```
+
+```
+
+- tr
+```
+
+```
 
 
 
