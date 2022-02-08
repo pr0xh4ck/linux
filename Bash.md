@@ -1,3 +1,5 @@
+- [linuxize](https://linuxize.com/) - Find more from here
+
 - [Agenda]()
   - [Intro](#intro)
   - [Compulsory](#Compulsory)
