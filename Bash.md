@@ -31,28 +31,28 @@
 ### Compulsory
 
 - grep 
-```
-
+```bash
+$ man gerp (manual page)
 ```
 
 - cut
-```
-
+```bash
+$ man cut (manual page)
 ```
 
 - sort
-```
-
+```bash
+$ man sort (manual page)
 ```
 
 - xargs
-```
-
+```bash
+$ man xargs (manual page)
 ```
 
 - tr
-```
-
+```bash
+$ man tr (manual page)
 ```
 
 
