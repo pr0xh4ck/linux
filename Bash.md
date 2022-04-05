@@ -4,6 +4,7 @@
   - [Intro](#intro)
   - [Compulsory](#Compulsory)
   - [Basic](#basic)
+  - [Bash Aliases](#Bash-Aliases)
   - [Extra](#Extra)
   - []()
 
@@ -213,6 +214,38 @@ echo "+880"
 ;;
 esac
 ```
+
+-----------------------------------------
+----------------------------------------
+
+### Bash-Aliases
+- Now open you terminal and write
+```vi ~/.bash_profile``` or ```nano ~/.bash_profile``` or ```vi ~/.zshrc```
+- Basic
+```bash
+wafw00f ()
+{
+cd ~/tools/wafw00f
+python3 setup.py install
+}
+```
+- Next step
+```bash
+wafw00f ()
+{
+cd ~/tools/wafw00f
+wafw00f $1 "use other options"
+}
+```
+
+
+
+------------------------------------------------
+------------------------------------------
+
+
+
+
 
 
 
