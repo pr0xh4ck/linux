@@ -219,7 +219,7 @@ esac
 ----------------------------------------
 
 ### Bash-Aliases
-- Now open you terminal and write
+- Now open your terminal and include 
 ```vi ~/.bash_profile``` or ```nano ~/.bash_profile``` or ```vi ~/.zshrc```
 - Basic
 ```bash
