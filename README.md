@@ -168,7 +168,7 @@ python3
 or
 
 ```bash
-sudo wget https://golang.org/dl/go1.17.3.linux-amd64.tar.gz
+sudo wget https://golang.org/dl/go1.18linux-amd64.tar.gz
 ```
 
 - Now remove your old golang
@@ -188,7 +188,7 @@ echo $PATH
 
 - Go $PATH
 ```bash
-export GOPATH=/home/pr0xh4ck/go
+export GOPATH=/home/pr0xh4ck/go/bin
 ```
 
 or
@@ -199,7 +199,7 @@ echo "export GOPATH=/home/pr0xh4ck/go" >> ~/.bashrc
 
 - Go ROOT
 ```bash
-export GOROOT=/usr/local/go
+export GOROOT=/usr/local/go/bin
 ```
 or
 
