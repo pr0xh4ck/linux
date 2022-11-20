@@ -52,6 +52,10 @@ sudo apt-get upgrade
 sudo apt-get dist-upgrade
 ```
 
+```bash
+sudo apt update && sudo apt upgrade && sudo apt full-upgrade && sudo apt dist-upgrade && sudo apt-get check && sudo apt -f install && sudo apt -y clean && sudo apt -y autoclean && sudo apt autoremove && sudo dpkg --configure -a && sudo apt --fix-broken install
+```
+
 
 
 
